@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gandlapati Nithin Reddy</h1>
-<h3 align="center">A passionate aspiring engineer in Computer Science specialized in Internet of Things</h3>
+<h3 align="center">A passionate aspiring engineer in Computer Science specialized in Cloud and Devops</h3>
 
 - 📫 How to reach me **gandlapatinithin@gmail.com**
 
