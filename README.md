@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Gandlapti Nithin Reddy</h1>
-<h3 align="center">A passionate Computer Science engineer specialized in cloud and Devops from India</h3>
+<h3 align="center">A passionate Computer Science engineer specialized in cloud and DevOps from India</h3>
 
 - 🌱 I’m currently learning **Devops**
 
