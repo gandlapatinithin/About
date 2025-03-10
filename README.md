@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Gandlapti Nithin Reddy</h1>
-<h3 align="center">A passionate Computer Science engineer specialized in cloud and DevOps from India</h3>
+<h3 align="center">I'm Nithin Reddy Gandlapati, a Computer Science Engineering student at Malla Reddy University, Hyderabad. I'm passionate about Cloud Computing and DevOps, and I love working with AWS, Azure, GCP, and DevOps tools to build scalable and efficient solutions. Problem-solving excites me—I enjoy tackling technical challenges with a creative mindset, making sure my solutions are both practical and reliable.</h3>
 
 - 🌱 I’m currently learning **Devops**
 
